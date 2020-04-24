@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PasswordConvertor</string>
+    <string name="input_text">Enter Password</string>
+    <string name="convert_button">convert</string>
+    <string name="output_text">Converted Password</string>
+    <string name="number_text">Enter Password Length</string>
+</resources>
